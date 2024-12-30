@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/.git": false
+    },
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.settings.editor": "json",
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true
+}
