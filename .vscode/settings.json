@@ -3,7 +3,7 @@
         "**/.git": false
     },
     "workbench.tree.enableStickyScroll": true,
-    "workbench.settings.editor": "json",
+    "workbench.settings.editor": "ui",
     "explorer.compactFolders": false,
     "explorer.fileNesting.enabled": true
 }
